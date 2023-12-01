@@ -1,0 +1,34 @@
+E:\prog\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\prog\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\prog\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\prog\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\prog\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+E:\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Froms.Edit.resources
+E:\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\prog\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\prog\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Froms.Edit.resources
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\ny19nagym\Desktop\prog - NM Trixity\prog\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
